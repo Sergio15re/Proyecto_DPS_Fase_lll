@@ -14,6 +14,6 @@ Usted es libre de: Compartir — copiar y redistribuir el material en cualquier 
 Autores: Sergio Isidro Rosas Carrillo RC131146
 
 
-Links Mock up: https://www.figma.com/file/3WJoS7zK7yfHePqtrlJDS0/kmiz-App-Shopping-Page?node-id=1%3A49064
-Video demostrativo:  https://drive.google.com/file/d/1DFzIMbChB-cxDVv8xZG8VCof7Lu4GTvj/view?usp=sharing
-Manual de Usuario: https://drive.google.com/file/d/1xuw6wjFBkaPXgQA0y-KEcy_I741WIqYP/view?usp=share_link
+---Links Mock up: https://www.figma.com/file/3WJoS7zK7yfHePqtrlJDS0/kmiz-App-Shopping-Page?node-id=1%3A49064
+---Video demostrativo:  https://drive.google.com/file/d/1DFzIMbChB-cxDVv8xZG8VCof7Lu4GTvj/view?usp=sharing
+---Manual de Usuario: https://drive.google.com/file/d/1xuw6wjFBkaPXgQA0y-KEcy_I741WIqYP/view?usp=share_link
